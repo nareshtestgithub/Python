@@ -7,3 +7,5 @@ Sum = number1 + number2
 
 print(' the sum of two number is', Sum)
 
+multipy = number1 * number2
+print('the multipy  of two number is', multipy)
